@@ -17,12 +17,14 @@ There are various types of data that can be stored in YAML such as text, real nu
 * ``integer``: An integer and hold any whole number value from -2\ :sup:`31` to 2\ :sup:`31`.
 * ``decimal``: Decimals can be any real number. Examples include: ``3.14``, ``-392.2``, ``60``.
 * ``boolean``: There are two possible values for booleans: ``true`` or ``false``.
+* ``duration``: Defines a period of time. Using ``s`` for seconds and ``m`` for minutes, durations can be written like so: ``25m``, ``30s``, ``0.5s``.
+* ``coordinate``: Coordinates mark a location and direction in the world. You must specify the x, y and z values of a location in the map. Additionally, yaw (direction) and pitch (tilt) can be specified. Examples: ``25.5, 60, 30.5, -90, 0``, ``50, 80.5, 30.5``, ``0, 100, 0, 90``.
 
 
 Formatting
 ==========
 
-Below is an example of a YAML file. In this example, there are three data types at use: ``string``, ``boolean`` and ``integer``.  It is required, as shown in the example, to indent with two spaces.
+Below is an example of a YAML file. In this example, there are three data types at use: ``string``, ``boolean`` and ``integer``.  It is required, as shown in the example, to indent with two spaces. In the example, ``family`` is the parent of the sections ``parents``, ``kids``, ``happy``, ``pets`` and ``address`` because they are spaced to fall under ``family``. Take time to ensure your spacing is correct when writing YAML as that is the most common cause for issues.
 
 .. code-block:: yaml
     
@@ -33,5 +35,5 @@ Below is an example of a YAML file. In this example, there are three data types 
       kids:
       - 'Tim'
       happy: true
-      pets: 2
+      pets: 3
       address: '123 Everton Lane'
