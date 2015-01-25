@@ -2,4 +2,8 @@
 References
 ==========
 
-Helpful things!
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    inventory

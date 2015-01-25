@@ -9,3 +9,5 @@ Modules are the main sections of a map configuration file. They each provide dif
     :titlesonly:
 
     info
+    teams
+    
