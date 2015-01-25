@@ -1,2 +1,5 @@
-# Modules
+=======
+Modules
+=======
+
 What are modules?
