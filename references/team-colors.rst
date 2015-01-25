@@ -24,4 +24,4 @@ navy       ..        ..
 .. |lred| image:: http://i.imgur.com/uuO11sY.png
 .. |lreda| image:: http://i.imgur.com/4kfp7j3.png
 
-.. |oran| image:: http://i.imgur.com/JlQ3LnB.png
+.. |oran| image:: http://i.imgur.com/hvozbY7.png
