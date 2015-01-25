@@ -2,9 +2,9 @@
 Team Colors
 =========
 
-=========  =====  ======
+=========  =====  ========
 Name       Chat   Armor
-=========  =====  ======
+=========  =====  ========
 red               ..
 light_red  |lred| |lreda|
 blue       ..     ..
@@ -15,7 +15,7 @@ orange     ..     ..
 purple     ..     ..
 pink       ..     ..
 navy       ..     ..
-=========  =====  ======
+=========  =====  ========
 
 
 .. |lred| image:: http://i.imgur.com/uuO11sY.png
