@@ -7,26 +7,6 @@ All maps on Avicus require a file written in YAML that dictates how the map will
 .. warning::
     If you are new to markup languages, it may be wise to view examples of YAML to get a better feel of how it functions. You can find examples at `maps.avicus.net <http://maps.avicus.net>`_ by navigating the directories and locating any ``map.yml`` file.
 
-Formatting
-==========
-
-Here is an example of a YAML file.
-
-.. code-block:: yaml
-    
-    family:
-      parents:
-      - Charles
-      - Lily
-      kids:
-      - Tim
-      pets:
-      - name: Max
-        type: dog
-      pets:
-      - name: Bill
-        type: goldfish
-
 
 Data Types
 ==========
@@ -37,3 +17,21 @@ There are various types of data that can be stored in YAML such as text, real nu
 * ``integer``: An integer and hold any whole number value from -2\ :sup:`31` to 2\ :sup:`31`.
 * ``decimal``: Decimals can be any real number. Examples include: ``3.14``, ``-392.2``, ``60``.
 * ``boolean``: There are two possible values for booleans: ``true`` or ``false``.
+
+
+Formatting
+==========
+
+Below is an example of a YAML file. In this example, there are three data types at use: ``string``, ``boolean`` and ``integer``.  It is required, as shown in the example, to indent with two spaces.
+
+.. code-block:: yaml
+    
+    family:
+      parents:
+      - 'Charles'
+      - 'Lily'
+      kids:
+      - 'Tim'
+      happy: true
+      pets: 2
+      address: '123 Everton Lane'
