@@ -3,9 +3,7 @@ Team Colors
 =========
 
 =====  =====  ======
-   Inputs     Output
-------------  ------
-  A      B    A or B
+Name   Chat   Armor
 =====  =====  ======
 False  False  False
 True   False  True
