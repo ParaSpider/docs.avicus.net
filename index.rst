@@ -8,5 +8,4 @@ Avis is the framework that runs on Avicus. This is documentation for it!
    :maxdepth: 3
    :titlesonly:
 
-   modules/index
-   references/index
+   */index

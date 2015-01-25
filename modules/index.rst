@@ -7,4 +7,4 @@ Modules
     :titlesonly:
     :hidden:
 
-    info
+    *
