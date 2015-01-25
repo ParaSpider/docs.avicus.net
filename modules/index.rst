@@ -2,4 +2,8 @@
 Modules
 =======
 
-What are modules?
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    info
