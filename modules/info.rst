@@ -1,6 +1,6 @@
-=======
+====
 Info
-=======
+====
 
 The info module contains essential information for each map.
 
