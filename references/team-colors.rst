@@ -5,7 +5,7 @@ Team Colors
 =========  =====  ======
 Name       Chat   Armor
 =========  =====  ======
-red        |red|  -
+red        |red|  ..
 light_red  -      -
 blue       -      -
 green      -      -
