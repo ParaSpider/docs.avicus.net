@@ -2,6 +2,9 @@
 Team Colors
 =========
 
+.. hint::
+    Override leather armor colors for a team by configuring the `color` variable.
+
 =========  ========  ========
 Name       Chat      Armor
 =========  ========  ========
@@ -11,7 +14,7 @@ blue       ..        ..
 green      ..        ..
 lime       ..        ..
 yellow     ..        ..
-orange     ..        ..
+orange     |oran|    ..
 purple     ..        ..
 pink       ..        ..
 navy       ..        ..
@@ -20,3 +23,5 @@ navy       ..        ..
 
 .. |lred| image:: http://i.imgur.com/uuO11sY.png
 .. |lreda| image:: http://i.imgur.com/4kfp7j3.png
+
+.. |oran| image:: http://i.imgur.com/JlQ3LnB.png
