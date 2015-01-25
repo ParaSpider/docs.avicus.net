@@ -2,18 +2,13 @@
 Team Colors
 =========
 
-==== ==== ====
-Name Chat Armor
-==== ==== ====
-red  
-light_red  
-blue  
-green  
-lime  
-yellow  
-orange  
-purple  
-pink  
-gray  
-navy  
-==== ==== ====
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
