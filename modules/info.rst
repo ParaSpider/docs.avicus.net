@@ -10,6 +10,6 @@ The info module contains essential information for each map.
       title: 'Arizona'
       version: 1.0
       creators:
-      - Evocal
+      - 'Evocal'
       contributors:
-      - alexanderjoe10
+      - 'alexanderjoe10'
