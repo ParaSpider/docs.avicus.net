@@ -5,7 +5,8 @@ Avis Documentation
 Avis is the framework that runs on Avicus. This is documentation for it!
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :titlesonly:
 
-   modules
-   references
+   modules/index
+   references/index
